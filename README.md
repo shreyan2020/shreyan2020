@@ -16,8 +16,8 @@ My work combines behavioral experiments and statistical modelling with the syste
 
 | Project | What is here |
 | --- | --- |
-| [CHIME](https://github.com/shreyan2020/CHIME-V1) | Human annotation tools and analysis for causal model explanations. [HCOMP 2022 paper](https://doi.org/10.1609/hcomp.v10i1.21985). |
-| [SECI Persona Studio](https://github.com/shreyan2020/seci-query) | A research workspace for comparing source-linked evidence, preserving project decisions, and developing reports. Next.js, FastAPI, Electron, and Ollama. |
+| [CHIME](https://github.com/shreyan2020/chime) | Human annotation tools and analysis for causal model explanations. [HCOMP 2022 paper](https://doi.org/10.1609/hcomp.v10i1.21985). |
+| [SECI Persona Studio](https://github.com/shreyan2020/seci-persona-studio) | A research workspace for comparing source-linked evidence, preserving project decisions, and developing reports. Next.js, FastAPI, Electron, and Ollama. |
 | [Rift Rewind](https://github.com/shreyan2020/rift-rewind) | A hackathon prototype that turns League of Legends match histories into an interactive narrative. React, behavioral analytics, and an AWS processing pipeline. |
 
 Some study repositories contain participant data or working research material and remain private. Papers above describe the methods and findings.
