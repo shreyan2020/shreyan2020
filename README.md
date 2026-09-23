@@ -8,6 +8,8 @@ My work combines behavioral experiments and statistical modelling with the syste
 
 ## Research
 
+I maintain [Aligned AI Stack](https://github.com/aligned-ai-stack), where I bring together study software, analyses, and experimental tools around belief, reliance, and human oversight of AI. The organization connects the published studies below with ongoing work on how people can assess, question, and correct AI assistance.
+
 - **AI evaluation and oversight.** Studied how 450 participants used different forms of AI support to report illegal content under systematically varied AI errors. The work examines both decision accuracy and the quality of people's explanations. [FAccT 2026](https://doi.org/10.1145/3805689.3812301)
 - **Belief updating and delegation.** Designed a preregistered experiment with 240 participants and 7,200 trials to study how experience with AI carries across tasks and shapes delegation. [CHI 2026](https://doi.org/10.1145/3772318.3790775). Follow-up work separates whether beliefs change from how strongly people update. [HCOMP 2026](https://doi.org/10.1145/3834580.3838740)
 - **Multilingual human–AI interaction.** Ran linked co-writing and donation experiments to study how language-dependent AI performance affects reliance and persuasion. [CHI 2025](https://doi.org/10.1145/3706598.3713201)
